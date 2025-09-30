@@ -1,0 +1,15 @@
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar archivos temporales del sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Ignorar configuraciones locales de VS Code (no las del repo)
+.vscode/
+.history/
+
+# Ignorar carpetas de servidor local (si algún alumno prueba cosas con Live Preview)
+node_modules/
